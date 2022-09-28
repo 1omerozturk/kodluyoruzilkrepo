@@ -1,6 +1,6 @@
 # **Kodluyoruz Ilk Repo**
 
-"![Images](Images/Project.png)"
+![Images](Images/Project.png)
 
 Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo, içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
