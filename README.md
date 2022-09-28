@@ -23,3 +23,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## **License**
 [MIT](C:\Users\monster\Documents\GitHub\kodluyoruzilkrepo\LICENSE)
+
+[patika.dev](https://www.patika.dev/tr)
